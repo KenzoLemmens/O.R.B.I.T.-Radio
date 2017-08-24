@@ -1,5 +1,7 @@
 # Sprints
 <br><br>
+- [ ] Banaan 
+- [ ] peer
 
 ## MVP
 >> WLAN firewall
