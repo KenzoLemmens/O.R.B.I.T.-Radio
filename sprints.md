@@ -11,7 +11,7 @@
 
 <br><br>
 
-> ## +
+## +
 >> Audio playback
 >> - basic playback of incomming audio stream
 >> - Volume control
@@ -29,7 +29,7 @@
 
 <br><br>
 
-> ## ++ 
+## ++ 
 >> Alarm
 >> - "Sunrise light"
 >> - incremental volume sound alarm
