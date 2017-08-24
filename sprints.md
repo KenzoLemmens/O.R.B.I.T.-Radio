@@ -25,7 +25,7 @@
 >> - Single alarm via LCD menu
 >> - Music output
 > 
->> - USB Charger
+>> USB Charger
 
 <br><br>
 
