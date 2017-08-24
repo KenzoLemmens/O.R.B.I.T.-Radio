@@ -3,9 +3,8 @@
 >> WLan firewall
 >>> AP (WPA-psk2)
 >>> NAT routing
-
-> LED light
->> Physical brightness control
+>> LED light
+>>> Physical brightness control
 
 ## +
 > Audio playback
