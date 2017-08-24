@@ -1,6 +1,8 @@
 # Sprints
 <br><br>
 
+## BLE console ##
+
 ## MVP
 > WLAN firewall
 > - [ ] AP (WPA-psk2)
