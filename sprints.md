@@ -7,7 +7,7 @@
 >> LED light
 >> - Physical brightness control
 
-#
+<br><br>
 
 > ## +
 >> Audio playback
@@ -25,7 +25,7 @@
 > 
 >> - USB Charger
 
-#
+<br><br>
 
 > ## ++ 
 >> Alarm
@@ -42,7 +42,7 @@
 >> LCD menu
 >> - Music menu
 
-#
+<br><br>
 
 ## Last
 - USB charger
