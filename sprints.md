@@ -1,6 +1,6 @@
 # Sprints
 > ## MVP
->> WLan firewall
+>> WLAN firewall
 >> - AP (WPA-psk2)
 >> - NAT routing
 >> LED light
