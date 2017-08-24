@@ -5,6 +5,8 @@
 
 ###### WLan Firewall
 - Routing 
+- DNS
+- LAN-LAN VPN
 - Access point
 - Network & Wlan monitor
 - RADIUS Access control
