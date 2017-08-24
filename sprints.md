@@ -23,20 +23,20 @@
 > 
 >> - USB Charger
 
-## ++ 
-> Alarm
->> "Sunrise light"
->> incremental volume sound alarm
-
-> WLan firewall
->> RADIUS access control
->> DNS
-
-> Music player
->> Network radio playback
-
-> LCD menu
->> Music menu
+> ## ++ 
+>> Alarm
+>> - "Sunrise light"
+>> - incremental volume sound alarm
+>
+>> WLan firewall
+>> - RADIUS access control
+>> - DNS
+>
+>> Music player
+>> - Network radio playback
+>
+>> LCD menu
+>> - Music menu
 
 
 
