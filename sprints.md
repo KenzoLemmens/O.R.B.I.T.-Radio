@@ -47,6 +47,5 @@
 <br><br>
 
 ## Last
-- USB charger
 - Netflix player
 - Webpage
