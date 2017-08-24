@@ -4,7 +4,9 @@
 - USB ports to charge mobile devices
 
 ###### WLan Firewall
-- Routing 
+- IPv6
+- NAT
+- DHCP
 - DNS
 - LAN-LAN VPN
 - Access point
