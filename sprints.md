@@ -13,36 +13,36 @@
 
 ## +
 >> Audio playback
->> - basic playback of incomming audio stream
->> - Volume control
+>> - [ ] basic playback of incomming audio stream
+>> - [ ] Volume control
 > 
 >> LCD Menu
->> - Alarm menu
->> - Current time
->> - Menu control
+>> - [ ] Alarm menu
+>> - [ ] Current time
+>> - [ ] Menu control
 > 
 >> Alarm
->> - Single alarm via LCD menu
->> - Music output
+>> - [ ] Single alarm via LCD menu
+>> - [ ] Music output
 > 
->> USB Charger
+>> - [ ] USB Charger
 
 <br><br>
 
 ## ++ 
 >> Alarm
->> - "Sunrise light"
->> - incremental volume sound alarm
+>> - [ ] "Sunrise light"
+>> - [ ] incremental volume sound alarm
 >
 >> WLan firewall
->> - RADIUS access control
->> - DNS
+>> - [ ] RADIUS access control
+>> - [ ] DNS
 >
 >> Music player
->> - Network radio playback
+>> - [ ] Network radio playback
 >
 >> LCD menu
->> - Music menu
+>> - [ ] Music menu
 
 <br><br>
 
