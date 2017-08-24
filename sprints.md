@@ -7,6 +7,8 @@
 >> LED light
 >> - Physical brightness control
 
+#
+
 > ## +
 >> Audio playback
 >> - basic playback of incomming audio stream
@@ -23,6 +25,8 @@
 > 
 >> - USB Charger
 
+#
+
 > ## ++ 
 >> Alarm
 >> - "Sunrise light"
@@ -38,8 +42,7 @@
 >> LCD menu
 >> - Music menu
 
-
-
+#
 
 ## Last
 - USB charger
