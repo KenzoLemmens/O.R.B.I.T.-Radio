@@ -1,7 +1,7 @@
 # Sprints
 <br><br>
 
-> ## MVP
+## MVP
 >> WLAN firewall
 >> - AP (WPA-psk2)
 >> - NAT routing
