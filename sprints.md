@@ -7,21 +7,21 @@
 >> LED light
 >> - Physical brightness control
 
-## +
-> Audio playback
->> basic playback of incomming audio stream
->> Volume control
-
-> LCD Menu
->> Alarm menu
->> Current time
->> Menu control
-
-> Alarm
->> Single alarm via LCD menu
->> Music output
-
-> USB Charger
+> ## +
+>> Audio playback
+>> - basic playback of incomming audio stream
+>> - Volume control
+> 
+>> LCD Menu
+>> - Alarm menu
+>> - Current time
+>> - Menu control
+> 
+>> Alarm
+>> - Single alarm via LCD menu
+>> - Music output
+> 
+>> - USB Charger
 
 ## ++ 
 > Alarm
