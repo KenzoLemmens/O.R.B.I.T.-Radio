@@ -8,9 +8,9 @@
 - Physical brightness control
 
 ## +
-1. Audio playback
-- basic playback of incomming audio stream
-- Volume control
+> Audio playback
+>> basic playback of incomming audio stream
+>> Volume control
 
 2. LCD Menu
 - Alarm menu
