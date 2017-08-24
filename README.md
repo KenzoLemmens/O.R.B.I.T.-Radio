@@ -7,6 +7,7 @@
 - Routing 
 - Access point
 - Network & Wlan monitor
+- RADIUS Access control
 
 ###### LED light ######
 - Brightness control via network/physical
