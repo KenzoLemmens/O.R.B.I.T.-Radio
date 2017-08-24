@@ -10,13 +10,13 @@
 - RADIUS Access control
 
 ###### LED light ######
-- Brightness control via network/physical
+- Brightness via network/physical
 
 ###### Music player ######
 - Network radio playback
 - Personal music playback
 - Deezer playback
-- Volume control via network/physical
+- Volume via network/physical
 
 ###### Netflix player ######
 - Play Netflix content on monitor
@@ -26,7 +26,17 @@
 - LED "Sunrise" alarm
 - Reminder alarms
 - Single alarm configurable via LCD
-- Multiple alarm via webpage (or Google Calender sync?)
+
+###### Physical control ######
+- Volume
+- LED brightness
+- Menu control LCD
+
+###### Webpage/app control ######
+- Multiple alarms
+- Google Calendar sync
+- Alarm settings
+- WLan firewall settings
 
 ## IO
 - LED-light
