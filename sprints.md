@@ -1,8 +1,8 @@
 # Sprints
 > ## MVP
 >> WLan firewall
-- AP (WPA-psk2)
-- NAT routing
+>> - AP (WPA-psk2)
+>> - NAT routing
 >> LED light
 - Physical brightness control
 
