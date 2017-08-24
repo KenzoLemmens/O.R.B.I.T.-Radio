@@ -1,42 +1,42 @@
 # Sprints
 ## MVP
-1. WLan firewall
-- AP (WPA-psk2)
-- NAT routing
+> WLan firewall
+>> AP (WPA-psk2)
+>> NAT routing
 
-2. LED light
-- Physical brightness control
+> LED light
+>> Physical brightness control
 
 ## +
 > Audio playback
 >> basic playback of incomming audio stream
 >> Volume control
 
-2. LCD Menu
-- Alarm menu
-- Current time
-- Menu control
+> LCD Menu
+>> Alarm menu
+>> Current time
+>> Menu control
 
-3. Alarm
-- Single alarm via LCD menu
-- Music output
+> Alarm
+>> Single alarm via LCD menu
+>> Music output
 
-4. USB Charger
+> USB Charger
 
 ## ++ 
-1. Alarm
-- "Sunrise light"
-- incremental volume sound alarm
+> Alarm
+>> "Sunrise light"
+>> incremental volume sound alarm
 
-2. WLan firewall
-- RADIUS access control
-- DNS
+> WLan firewall
+>> RADIUS access control
+>> DNS
 
-3. Music player
-- Network radio playback
+> Music player
+>> Network radio playback
 
-4. LCD menu
-- Music menu
+> LCD menu
+>> Music menu
 
 
 
