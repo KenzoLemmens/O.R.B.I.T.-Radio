@@ -2,12 +2,12 @@
 <br><br>
 
 ## MVP
->> WLAN firewall
->> - AP (WPA-psk2)
->> - NAT routing
+>> [ ] WLAN firewall
+>> [ ] - AP (WPA-psk2)
+>> [ ] - NAT routing
 >
 >> LED light
->> - Physical brightness control
+>> [ ] - Physical brightness control
 
 <br><br>
 
