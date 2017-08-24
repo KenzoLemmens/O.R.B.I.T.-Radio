@@ -32,7 +32,14 @@
 ###### Physical control ######
 - Volume
 - LED brightness
-- Menu control LCD
+
+###### LCD Menu ######
+- Current time view
+- Alarm menu
+- Music menu
+- Volume feedback
+- Brightness feedback
+- Backlight control
 
 ###### Webpage/app control ######
 - Multiple alarms
