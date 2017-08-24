@@ -1,15 +1,13 @@
 # Sprints
 <br><br>
 
-[ ] test
-
 ## MVP
 >> WLAN firewall
 >> - AP (WPA-psk2)
 >> - NAT routing
 >
 >> LED light
->> [ ] - Physical brightness control
+>> - Physical brightness control
 
 <br><br>
 
