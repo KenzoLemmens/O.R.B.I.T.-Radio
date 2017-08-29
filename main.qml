@@ -6,19 +6,19 @@ ApplicationWindow {
     visible: true
     width: 800
     height: 480
+    //visibility: "FullScreen"
     //title: qsTr("")
 
-    Rectangle {
-        id: "backgroundRec"
+    /*Rectangle {
         width: 800
         height: 480
-        color: "#0000ff"
-    }
+        color: "#96beff"
+    }*/
 
     SwipeView {
         id: swipeView
+        visible: true
         anchors.fill: parent
-        currentIndex: tabBar.currentIndex
 
         MonitorPage {}
 
@@ -30,4 +30,5 @@ ApplicationWindow {
 
 
     }
+
 }
